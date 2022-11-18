@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.summary       = 'Simple and extensible HTTP health checks server.'
   spec.description   = spec.summary
   spec.homepage      = 'https://github.com/SberMarket-Tech/http_health_check'
-  spec.required_ruby_version = Gem::Requirement.new('>= 2.5.0')
+  spec.required_ruby_version = Gem::Requirement.new('>= 2.3.1')
 
   spec.metadata['allowed_push_host'] = 'https://rubygems.org/'
 
